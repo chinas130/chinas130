@@ -32,9 +32,8 @@ Processing **10,000+ rows daily** with **zero manual work**.
 ## 🔗 Links  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/виктор-волошко-292b40391?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6WWiz2fNQOarSSr8zq%2Fy9g%3D%3D)
 
-**Email:** rnfglz@gmail.com  
-**GitHub:** https://github.com/chinas130  
-**Telegram:** @PoweredLinuxoid  
+**Email:** rnfglz@gmail.com
+**Telegram:** @PoweredLinuxoid
 
 ---
 
